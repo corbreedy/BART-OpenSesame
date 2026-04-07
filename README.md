@@ -1,6 +1,6 @@
 # BART-OpenSesame
 
-This is a behavioral version of the Balloon Analogue Risk Task coded for [OpenSesame](https://osdoc.cogsci.nl) (currently supports OpenSesame v3.x).
+This is a behavioral version of the Balloon Analogue Risk Task coded for [OpenSesame](https://osdoc.cogsci.nl) (currently supports OpenSesame v4.1.x).
 
 ## Getting the task
 
