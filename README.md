@@ -16,10 +16,6 @@ You can reconstruct the script `OS_Script.txt` by copy/pasting it into a new Ope
 
 ## Support
 
-Post any issues to this repository's [Issues Board](https://github.com/imnotamember/BART-OpenSesame/issues).
-
-You can also feel free to send comments/questions/concerns to me at joshua.e.zosky@gmail.com
-
-If you use this, please cite me/acknowledge my efforts:
+No support at all, but this is a work of:
 
 `Zosky, J. E. (2019). The Balloon Analogue Risk Task (BART) coded for OpenSesame: imnotamember/BART-OpenSesame. Retrieved from https://github.com/imnotamember/BART-OpenSesame (Original work published 2017)`
